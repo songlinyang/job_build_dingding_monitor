@@ -1,0 +1,2 @@
+# job_build_dingding_monitor
+jenkins构建成功后，提示钉钉信息
